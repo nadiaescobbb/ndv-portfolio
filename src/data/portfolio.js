@@ -2,8 +2,8 @@ export const PERSONAL_INFO = {
   name: "Nadia",
   role: "Front-End Developer",
   email: "tu@email.com",
-  github: "https://github.com/tuusuario",
-  linkedin: "https://www.linkedin.com/in/tuusuario/",
+  github: "https://github.com/nadiaescobbb",
+  linkedin: "www.linkedin.com/in/nadiaescobbb",
 };
 
 export const HERO = {
