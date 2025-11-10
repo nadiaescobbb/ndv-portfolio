@@ -1,16 +1,57 @@
-# React + Vite
+# 🌟 NDV Portfolio - Nadia Escobar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Banner](https://via.placeholder.com/800x200.png?text=NDV+Portfolio)
 
-Currently, two official plugins are available:
+¡Hola! Soy **Nadia Escobar**, desarrolladora frontend enfocada en **React**, **Vite**, **Tailwind CSS** y **JavaScript/TypeScript**.  
+Aquí encontrarás proyectos reales, demos interactivas y ejemplos de mi código.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Demo en vivo:** [ndv-portfolio-six.vercel.app](https://ndv-portfolio-six.vercel.app/)  
+🔗 **LinkedIn:** [Nadia Escobar](https://www.linkedin.com/in/nadiaescobbb/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tecnologías y Stack
 
-## Expanding the ESLint configuration
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Proyectos Destacados
+
+### 1. Landing Pages
+![Landing Page GIF](https://via.placeholder.com/400x200.png?text=Landing+Page+Demo)  
+Interactivas, modernas y totalmente adaptativas.
+
+### 2. E-commerce Simple
+![E-commerce GIF](https://via.placeholder.com/400x200.png?text=E-commerce+Demo)  
+Carrito de compras funcional, productos dinámicos y diseño limpio.
+
+### 3. Dashboards
+![Dashboard GIF](https://via.placeholder.com/400x200.png?text=Dashboard+Demo)  
+Paneles administrativos con métricas, gráficos y filtros interactivos.
+
+### 4. Blogs y Web Corporativa
+![Blog Demo](https://via.placeholder.com/400x200.png?text=Blog+Demo)  
+Contenido dinámico, optimización SEO y estructura modular.
+
+
+## ✨ Por qué trabajar conmigo
+
+
+- Código limpio, organizado y fácil de mantener
+- Experiencia en proyectos reales y soluciones completas
+- Capacidad de adaptación y rápida resolución de problemas
+- Comunicación clara y profesional para clientes y equipos
+
+
+📫 Contacto
+
+- LinkedIn: [Nadia Escobar](https://www.linkedin.com/in/nadiaescobbb/)
+- Email: [devcodernadia@gmail.com](mailto:devcodernadia@gmail.com)
